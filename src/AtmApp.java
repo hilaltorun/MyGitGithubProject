@@ -4,7 +4,9 @@ public class AtmApp {
 
         //version1
         System.out.println("Java is easy!");
-        //giversion2
+        //version2
+        System.out.println("Learn Java earn money");
+        //version3
 
 
 
