@@ -10,6 +10,7 @@ public class AtmApp {
         System.out.println("hilal branchi kodlarını yazdı");
         //hlal1
 
+        //remote repoda değişiklik yaptım.
 
 
 
